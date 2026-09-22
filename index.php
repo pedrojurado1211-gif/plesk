@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "hola mundo que pasaa, no vea la calr que hace"; ?>
+    <?php echo "hola mundo, ya me a dejado hacer comit"; ?>
 </body>
 </html>
